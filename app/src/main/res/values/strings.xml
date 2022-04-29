@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MazadyTask</string>
+
+    <string name="main_category">Main Category</string>
+    <string name="select_category">Select Category</string>
+    <string name="save">Save</string>
+</resources>
